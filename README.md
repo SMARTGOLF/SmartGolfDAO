@@ -23,6 +23,9 @@ The SGIToken contract is deployed to Ethereum Mainnet.
 
 ✅ Verified ✅
 
+🔗 View on Etherscan:  
+[https://etherscan.io/address/0xBe64547924b2Bf16782c903F0400308b50e3c4d4](https://etherscan.io/address/0xBe64547924b2Bf16782c903F0400308b50e3c4d4)
+
 
 ## 🛠 Usage
 
