@@ -1,5 +1,5 @@
 # SmartGolf Token (SGI)
-![SGi Logo](images/images/SGi-logo.png)
+![SGi Logo](images/logo/SGi-logo.png)
 
 SmartGolf (SGI) is the native utility token of the SmartGolf ecosystem — a real-world golf platform integrating IoT swing tracking, AI coaching, and Web3 reward mechanics.
 
