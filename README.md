@@ -36,6 +36,9 @@ This token is used in:
 - [SGi Whitepaper v4.0.4 (PDF)](./Docs/SGI%20White%20Paper%204.0.4.pdf)
 - [SmartGolf 1-Pager (PDF)](./Docs/SmartGolf_1page.pdf)
 
+For pitch materials or investor inquiries, please contact: support@smartgolf.io
+
+
 ### 🌐 Community & Links
 
 - Website: [smartgolf.io](https://smartgolf.io)
