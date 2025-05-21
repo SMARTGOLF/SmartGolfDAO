@@ -19,13 +19,12 @@ SmartGolf (SGI) is the native utility token of the SmartGolf ecosystem — a rea
 ## 🧪 Verify on Etherscan
 
 The SGIToken contract is deployed to Ethereum Mainnet.
-
-- [Etherscan Link](https://etherscan.io/address/0xBe64547924b2Bf16782c903F0400308b50e3c4d4)
+[Etherscan Link](https://etherscan.io/address/0xBe64547924b2Bf16782c903F0400308b50e3c4d4)
 
 ✅ Verified ✅
 
 🔗 View on Etherscan:  
-[https://etherscan.io/address/0xBe64547924b2Bf16782c903F0400308b50e3c4d4](https://etherscan.io/address/0xBe64547924b2Bf16782c903F0400308b50e3c4d4)
+[etherscan.io](https://etherscan.io/address/0xbe6454792b4f8176f2c903f040038b50e3c4d4d)
 
 
 ## 🛠 Usage
@@ -35,7 +34,14 @@ This token is used in:
 - SmartGolf Plaza competitions
 - NFT-based coaching and swing history
 - DAO governance and platform voting
+  
+### 📘 Whitepaper & 1-Page Summary
 
-## 🌐 Website
+- [SGi Whitepaper v4.0.4 (PDF)](./Docs/SGI%20White%20Paper%204.0.4.pdf)
+- [SmartGolf 1-Pager (PDF)](./Docs/SmartGolf_1page.pdf)
 
-- [https://smartgolf.io](https://smartgolf.io)
+### 🌐 Community & Links
+
+- Website: [smartgolf.io](https://smartgolf.io)
+- Telegram: [t.me/SmartGolfSGi](https://t.me/SmartGolfSGi)
+- GitHub: [github.com/SmartGolfDAO](https://github.com/SmartGolfDAO)
