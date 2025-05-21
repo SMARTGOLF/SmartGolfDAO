@@ -19,12 +19,8 @@ SmartGolf (SGI) is the native utility token of the SmartGolf ecosystem — a rea
 ## 🧪 Verify on Etherscan
 
 The SGIToken contract is deployed to Ethereum Mainnet.
-[Etherscan Link](https://etherscan.io/address/0xBe64547924b2Bf16782c903F0400308b50e3c4d4)
-
-✅ Verified ✅
-
-🔗 View on Etherscan:  
-[etherscan.io](https://etherscan.io/address/0xbe6454792b4f8176f2c903f040038b50e3c4d4d)
+✅ **Verified Contract**  
+🔗 [View on Etherscan](https://etherscan.io/address/0xbe64547924b2f8176f2c903f040038b50e3c4d4d)
 
 
 ## 🛠 Usage
