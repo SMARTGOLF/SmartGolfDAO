@@ -9,7 +9,7 @@ SmartGolf (SGI) is the native utility token of the SmartGolf ecosystem — a rea
 - **Symbol**: SGI
 - **Standard**: ERC-20
 - **Network**: Ethereum Mainnet
-- **Total Supply**: 400,000,000 SGI
+- **Total Supply**: 1,000,000,000 SGI
 - **Deployed Contract**: `0xBe64547924b2Bf16782c903F0400308b50e3c4d4`
 
 ## 📦 Contracts
@@ -33,8 +33,8 @@ This token is used in:
   
 ### 📘 Whitepaper & 1-Page Summary
 
-- [SGi Whitepaper v4.0.4 (PDF)](./Docs/SGI%20White%20Paper%204.0.4.pdf)
-- [SmartGolf 1-Pager (PDF)](./Docs/SmartGolf_1page.pdf)
+- [SGi Whitepaper v4.0.7 (PDF)]
+- [SmartGolf 1-Page v4.0.7 (PDF)](./Docs/)
 
 For pitch materials or investor inquiries, please contact: support@smartgolf.io
 
