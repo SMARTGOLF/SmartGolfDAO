@@ -10,7 +10,7 @@ SmartGolf (SGI) is the native utility token of the SmartGolf ecosystem — a rea
 - **Standard**: ERC-20
 - **Network**: Ethereum Mainnet
 - **Total Supply**: 1,000,000,000 SGI
-- **Deployed Contract**: `0x26130697f55c8Db6e476364d9D5deee429bB8d8C`
+- **Deployed Contract**: `0x0418fa3488d7e13f0c06ac5f8485d306b5748f4f`
 
 ## 📦 Contracts
 
@@ -18,11 +18,10 @@ SmartGolf (SGI) is the native utility token of the SmartGolf ecosystem — a rea
 
 # ✅ SmartGolf SGi Token Verification
 
-SmartGolfToken (SGi) has been successfully verified on [Etherscan](https://etherscan.io/address/0x26130697f55c8db6e476364d9d5deee429bb8d8c#code).  
+SmartGolfToken (SGi) has been successfully verified on [Etherscan](https://etherscan.io/address/0x0418fa3488d7e13f0c06ac5f8485d306b5748f4f#code)  
 - Compiler: v0.8.30+commit.73712a01  
 - Optimization: Disabled  
 - Verified Source Code & ABI Match  
-- Tx Hash: [0x9239689775bcdad6c00373ce8f6280d12a483799e040229ebba51fbfafc0de17](https://etherscan.io/tx/0x9239689775bcdad6c00373ce8f6280d12a483799e040229ebba51fbfafc0de17)  
 
 
 
@@ -35,9 +34,7 @@ This token is used in:
 - DAO governance and platform voting
   
 ### 📘 Whitepaper & 1-Page Summary
-
-- [SGi Whitepaper v4.0.7 (PDF)]
-- [SmartGolf 1-Page v4.0.7 (PDF)](./Docs/)
+../Doc/
 
 For pitch materials or investor inquiries, please contact: support@smartgolf.io
 
