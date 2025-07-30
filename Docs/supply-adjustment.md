@@ -1,0 +1,15 @@
+# SGi Token Supply Adjustment (2025.07.30)
+
+During the deployment phase of SGi Token, an over-mint of **1,322,800 SGi** occurred due to test initialization routines.
+
+To align with the official supply cap of **1,000,000,000 SGi**, this excess was permanently burned on-chain.
+
+## Burn Details
+- **Amount:** 1,322,800 SGi
+- **Date:** July 30, 2025
+- **Burn Address:** `0x000000000000000000000000000000000000dEaD`
+- **Tx Hash:** [`0x8b566d5599475cbad5fde...`](https://etherscan.io/tx/0x8b566d5599475cbad5fde7c2a9a3f93d32b0bc15e46e668018bd8673aeefce4)
+
+## Result
+- The total **effective supply is now 1,000,000,000 SGi**.
+- The discrepancy between early minting and whitepaper allocation is resolved and documented.
