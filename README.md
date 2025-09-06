@@ -13,8 +13,11 @@ This repository contains the *SGi token smart contracts, multi-sig treasury setu
 - **Symbol**: SGI
 - **Standard**: ERC-20
 - **Network**: Ethereum Mainnet
-- **Total Supply**: 1,000,000,000 SGI
 - **Deployed Contract**: `0x0418fa3488d7e13f0c06ac5f8485d306b5748f4f`
+- **MAX Total Supply**: 1,001, 322,800 SGI
+- **Total Supply**: 1,000,000,000 SGI
+- Burned: 1,322,800 SGi (sent to 0x0000…dead for permanent removal)
+- **Final Max Supply**: 1,000,000,000 SGI
 - 🧾 Full token issuance and technical changelog can be found under `/docs/`.
 
 ## 📦 Contracts
@@ -27,7 +30,6 @@ SmartGolfToken (SGi) has been successfully verified on [Etherscan](https://ether
 - Compiler: v0.8.30+commit.73712a01  
 - Optimization: Disabled  
 - Verified Source Code & ABI Match  
-
 
 
 ## 🛠 Usage
@@ -55,4 +57,3 @@ For pitch materials or investor inquiries, please contact: support@smartgolf.io
 
 - Website: [smartgolf.io](https://smartgolf.io)
 - Telegram: [t.me/SmartGolfSGi](https://t.me/SmartGolfSGi)
-- GitHub: [github.com/SmartGolfDAO](https://github.com/SmartGolfDAO)
