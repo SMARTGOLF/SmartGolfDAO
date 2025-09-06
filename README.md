@@ -1,9 +1,6 @@
-# SmartGolf Token (SGI)
-
 # SmartGolf Token (SGi) & DAO Governance
 
-SmartGolf (SGi) is the utility token of the SmartGolf ecosystem — integrating real-world golf performance tracking, AI coaching, and Web3 rewards.  
-This repository contains the *SGi token smart contracts, multi-sig treasury setup, and Snapshot DAO governance framework*.
+SmartGolf (SGi) is the utility token of the SmartGolf ecosystem — integrating real-world golf performance tracking, AI coaching, multi-sig treasury, and Snapshot DAO governance.
 
 ![SGi Logo](images/logo/SGi-logo.png)
 
@@ -20,9 +17,11 @@ This repository contains the *SGi token smart contracts, multi-sig treasury setu
 - **Final Max Supply**: 1,000,000,000 SGI
 - 🧾 Full token issuance and technical changelog can be found under `/docs/`.
 
+
 ## 📦 Contracts
 
 - `contracts/SGIToken.sol`: ERC-20 contract for SGI
+
 
 # ✅ SmartGolf SGi Token Verification
 
@@ -40,6 +39,7 @@ This token is used in:
 - NFT-based coaching and swing history
 - DAO governance and platform voting
   
+
 ### 📘 Whitepaper & 1-Page Summary
 ../Doc/
 
@@ -49,7 +49,8 @@ For pitch materials or investor inquiries, please contact: support@smartgolf.io
 ## DAO Governance
 
 - **Voting Platform**: Snapshot (gasless, 1 SGi = 1 vote, minimum 100 SGi required)  
-- **Treasury Management**: Gnosis Safe (3-of-5 multi-signature setup)  
+- **Treasury Management**: Gnosis Safe (3-of-5 multi-signature; board includes Founder, Advisor, Technical Lead, Community Lead, Legal)
+
 - **ENS**: smartgolfdao.eth  
 
 
