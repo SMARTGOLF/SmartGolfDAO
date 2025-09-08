@@ -1,6 +1,7 @@
 ## Purpose
 The SGi Token contract includes a clawback function (`reclaimLockedTokens`) that allows the DAO Controller or Owner to reclaim **locked tokens** under specific circumstances.  
-This document clarifies the operating principles and limitations of this function.
+This document clarifies the operating principles, limitations, and execution history of this function.
+
 
 ## Principles
 1. **Locked-Only Scope**  
@@ -16,14 +17,20 @@ This document clarifies the operating principles and limitations of this functio
      - Fraudulent allocation or misrepresentation  
      - Breach of contractual obligations  
      - KYC/AML failure
+     - Reserve restructuring (e.g. migration to a Safe Treasury)
 
 4. **Governance Control**  
    - Any clawback requires approval through DAO/Multisig governance.  
    - Transaction details will be recorded and disclosed publicly.
 
+## Execution History
+- **Case #1 (Advisor)**: Tokens allocated to an advisor who ceased contributing were clawed back prior to vesting.  
+- **Case #2 (Treasury Migration)**: Locked reserve tokens were clawed back to consolidate into the SGi DAO Treasury Safe for secure multi-signature management.  
+
 ## Transparency
-- A **public registry** of any clawback actions, including wallet addresses and transaction hashes, will be maintained in this repository.  
-- To date, **no clawback has been executed**.
+- A **public registry** of clawback actions, including wallet addresses and transaction hashes, will be maintained in this repository.  
+- To date, **2 clawbacks have been executed**, both aligning with the above principles.
+
 
 ---
 
