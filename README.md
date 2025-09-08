@@ -51,7 +51,13 @@ For pitch materials or investor inquiries, please contact: support@smartgolf.io
 - **Voting Platform**: Snapshot (gasless, 1 SGi = 1 vote, minimum 100 SGi required)  
 - **Treasury Management**: Gnosis Safe (3-of-5 multi-signature; board includes Founder, Advisor, Technical Lead, Community Lead, Legal)
 
-- **ENS**: smartgolfdao.eth  
+- **ENS**: smartgolfdao.eth
+  
+
+## Legal & Compliance
+- SGi Token smart contract has been independently reviewed and verified.  
+- A **formal legal opinion** regarding token classification and compliance has been issued by licensed counsel.  
+- For confidentiality reasons, the legal opinion is **not included in this repository**, but can be provided to exchanges, partners, and investors **upon request**.  
 
 
 ### 🌐 Community & Links
