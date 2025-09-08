@@ -1,0 +1,5 @@
+Case ID,Date,Wallet Address,Amount,Reason,Transaction Hash,Notes
+1,2025-07-19,0xC9c4C70f1f76e2f3062f5000A93dc0D3bb977509,1000,Wrong recipient address,0x7dd418cbd782034145d0ab9861ed514431dfdbdadce44cb5fe325be71036c4e7,allocation reclaimed and re-issued
+2,2025-07-28,0xdCA6F5dBDd885Af254A1A0763Afa32e83879e9B0,"90,000,000",Reserve restructuring,0xfe1fcc9c102b3db29e8723ce6da0e221ee39706d4c7397e7fa9df9313430a3f2,Core team reserve reclaimed from a lock and redistributed (team + reserve buckets).
+3,2025-08-16,0x6845B622DeE853f1Eb8e8c68963D6e6701a2d7E4,100000,Advisor allocation clawback,0xf0a3807003fe597dc7d650fe73a3de64b1941360403ac1da70506873c791e91a,Advisor inactivity: Unvested advisor allocation reclaimed prior to vesting.
+4,2025-09-05,0xca42808DEAc7841c20F0DF7eE124b9CdC87595A2,"300,000,000",Reserve migration to Safe Treasury,0xce9da8732b065958d5b309504df8d26595212b2746b5ae2aa4bd571c8d6f7114,Locked reserve reclaimed and moved to the SGi Treasury?Gnosis Safe (3/5).
