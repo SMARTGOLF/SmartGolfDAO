@@ -29,7 +29,7 @@ This document clarifies the operating principles, limitations, and execution his
    - Case #3 – **Advisor inactivity**: Unvested advisor allocation reclaimed prior to vesting.  
    - Case #4 – **Safe migration**: Locked reserve reclaimed and moved to the SGi Treasury **Gnosis Safe (3/5)**.
 
- > Full on-chain details (addresses, amounts, tx hashes) are maintained in the public registry file in this repo.
+ > Full on-chain details (addresses, amounts, tx hashes) are maintained in the public registry file in registry repo.
 
 
 ## Transparency
