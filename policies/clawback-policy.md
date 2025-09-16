@@ -14,9 +14,10 @@
    - See: [Clawback Registry](../registry/clawback-registry.csv).  
 
 3. **Governance**  
-   - Execution requires approval of the **3-of-5 Gnosis Safe multi-sig**.  
-   - This prevents unilateral action and ensures collective decision-making.  
-
+   - The `reclaimLockedTokens` function itself is controlled by the DAO/Owner role. 
+   - However, in practice all clawback actions are executed in alignment with the 3-of-5 Gnosis Safe governance model. 
+   - This means that any operational use of the function follows multi-sig approvals, and all actions are transparently recorded in the Clawback Registry. 
+   - This prevents unilateral action and ensures collective decision-making, even though the contract does not enforce multi-sig at the code level.
 ## Exceptional Use Cases
 - Mis-sent allocation correction (administrative error)  
 - Reserve/Treasury restructuring  
