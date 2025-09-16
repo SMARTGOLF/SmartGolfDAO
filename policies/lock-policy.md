@@ -1,39 +1,46 @@
 # Lock Policy
 
-This policy defines the rules and governance for using `lockTokens` and `mintLocked` functions in the SGi token contract.  
-It complements the smart contract implementation by adding operational safeguards and community transparency.
+This policy governs the use of the `lockTokens` and `mintLocked` functions in the SGiToken contract.  
+It ensures that all token locking follows strict rules to maintain fairness, prevent misuse, and provide transparency.
 
 ---
 
 ## Principles
 
-1. **DAO-Only Control**
-   - All lock operations (`lockTokens`, `mintLocked`) can only be executed by the `DAOController` (multi-sig / timelock controlled).
-   - Regular users cannot invoke these functions directly.
+1. **No Self-Locking**
+   - A lock operation where the `recipient` is the same as the `sender` is **not permitted**.  
+   - This prevents creation of invalid lock records without an actual token transfer.
 
-2. **Parameter Validation**
-   - Off-chain governance requires that all submitted lock operations respect the following rules:
-     - `duration` must be greater than 0.
-     - `cliff` must be less than `duration`.
-     - `startTime` must be a valid timestamp (not in the distant past).
-   - Invalid parameters are rejected before any DAO proposal is executed.
+2. **Cliff & Duration Validation**
+   - All locks must include a valid `startTime`, `cliff`, and `duration`.  
+   - Zero or invalid values are prohibited to avoid incorrect vesting schedules.
 
 3. **Transparency**
-   - Every lock operation is logged and referenced in the **Lock Registry** for community review.
-   - Records include date, wallet, amount, startTime, cliff, and duration.
+   - All lock operations must be recorded in the **Lock Registry**.  
+   - Each entry includes recipient, amount, time parameters, and DAO proposal reference.
+
+4. **Governance**
+   - Only the DAO/Owner (multi-sig controlled) can execute lock functions.  
+   - Execution requires multi-party approval, ensuring no unilateral action.
 
 ---
 
 ## Exceptional Use Cases
-- Token vesting for team, advisor, or private sale allocations.
-- Reserve restructuring or migration to a Safe multi-sig.
-- Strategic locks for ecosystem incentives.
+
+Locking may be used in the following scenarios:
+
+- Team/Advisor vesting
+- Private/Public sale vesting
+- DAO reserve allocation
+- Ecosystem incentive distribution
 
 ---
 
-## Execution History (summary)
-- As of 2025-09-16, all lock operations have followed DAO review and registry documentation.
-- No invalid parameter has been executed.
+## Registry & Documentation
+
+- Every lock event must be registered in `/registry/lock-registry.csv`.  
+- The registry ensures transparency for the community and external auditors.  
+- Any detected invalid attempt (e.g., self-locking, invalid parameters) will be rejected at the DAO governance level.
 
 ---
 
