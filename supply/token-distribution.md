@@ -15,4 +15,4 @@ Lockup and vesting terms are applied to key stakeholders to promote commitment a
 | Liquidity            | 2%         | Initial DEX/CEX liquidity provisioning               |
 | DAO Reserve          | 30%        | DAO governance, staking pool, etc.                   |
 
-![Token Distribution Chart](images/token-distribution.png)
+![Token Distribution Chart](token-distribution.png)
