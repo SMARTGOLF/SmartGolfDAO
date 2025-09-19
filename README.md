@@ -86,7 +86,7 @@ For pitch materials or investor inquiries, please contact: **support@smartgolf.i
 
 - Website: [smartgolf.io](https://smartgolf.io)  
 - Telegram: [t.me/SmartGolfSGi](https://t.me/SmartGolfSGi)  
-- Twitter: [@SmartGolfDAO](https://twitter.com/SmartGolfSGi)  
+- Twitter: [@SmartGolfSGi](https://twitter.com/SmartGolfSGi)  
 
 ---
 
