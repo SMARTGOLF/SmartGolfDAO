@@ -72,9 +72,14 @@ For pitch materials or investor inquiries, please contact: **support@smartgolf.i
 
 ## 🔍 Audit & Legal
 
-- 📑 [CertiK Audit – Final Report](./audit/REP-final-20250917T132908Z.pdf)  
-- ⚖️ [Legal Opinion (Utility Token classification)](./legal/SGi_Legal_Opinion.pdf)  
+- 📑 [Audit Report – SmartGolf Token Contract](./audit/REP-final-20250917T132908Z.pdf)  
+  *Audit conducted and certified by CertiK. The report covers contract security, vulnerabilities, and best practice compliance.*
 
+- 🌐 [CertiK Skynet – Live Security Dashboard](https://skynet.certik.com/projects/smartgolf)  
+
+- ⚖️ [Legal Opinion – Utility Token Classification](./legal/SGi_Legal_Opinion.pdf)  
+  *Reviewed by licensed counsel, confirming SGi as a utility token under applicable regulations.*
+  
 ---
 
 ## 🌐 Community & Links
