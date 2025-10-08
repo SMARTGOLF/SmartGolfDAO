@@ -4,19 +4,14 @@
   "safes": [
     {
       "name": "DAO Reserve Safe",
-      "address": "0x0000000000000000000000000000000000000000",
+      "address": "0xf459f4Ed2caDEda1696a996002F0CEC301DF6E01",
       "purpose": "Ecosystem rewards, staking, and airdrop distribution"
     },
     {
       "name": "Team Treasury Safe",
-      "address": "0x0000000000000000000000000000000000000000",
+      "address": "0xd2c329a36fd13b9D27f6f17d61c1a5251B4203F5",
       "purpose": "Team compensation, product operations"
     },
-    {
-      "name": "Advisor Safe",
-      "address": "0x0000000000000000000000000000000000000000",
-      "purpose": "Advisor, ambassador, and partner rewards"
-    }
   ],
   "last_updated": "2025-10-08"
 }
