@@ -1,0 +1,22 @@
+{
+  "network": "Ethereum Mainnet",
+  "policy": "3-of-5",
+  "safes": [
+    {
+      "name": "DAO Reserve Safe",
+      "address": "0x0000000000000000000000000000000000000000",
+      "purpose": "Ecosystem rewards, staking, and airdrop distribution"
+    },
+    {
+      "name": "Team Treasury Safe",
+      "address": "0x0000000000000000000000000000000000000000",
+      "purpose": "Team compensation, product operations"
+    },
+    {
+      "name": "Advisor Safe",
+      "address": "0x0000000000000000000000000000000000000000",
+      "purpose": "Advisor, ambassador, and partner rewards"
+    }
+  ],
+  "last_updated": "2025-10-08"
+}
