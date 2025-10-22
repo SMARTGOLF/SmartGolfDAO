@@ -5,7 +5,22 @@
     {
       "name": "DAO Reserve Safe",
       "address": "0xf459f4Ed2caDEda1696a996002F0CEC301DF6E01",
-      "purpose": "Ecosystem rewards, staking, and airdrop distribution"
+      "purpose": "Reserve and staking"
+    },
+    {
+      "name": "SGi Ecosystem Safe",
+      "address": "0xAb5682B0a956eD50Ae8cdc77bb429D6226300241",
+      "purpose": "Ecosystem rewards"
+    },
+    {
+      "name": "SGi Public sale Safe",
+      "address": "0x514210b8D5C41C07A9f5144ea9bb481CDDCa477D",
+      "purpose": "Temporal SGi pool reservation for CEX listing"
+    },
+    {
+      "name": "SGi Liquidity Safe",
+      "address": "0xE50fF8195E2C3a3efFA48c065919cf0bde7C0623",
+      "purpose": "CEX Liquidity pool"
     },
     {
       "name": "Team Treasury Safe",
@@ -13,5 +28,5 @@
       "purpose": "Team compensation, product operations"
     },
   ],
-  "last_updated": "2025-10-08"
+  "_last_updated": "2025-10-22_"
 }
