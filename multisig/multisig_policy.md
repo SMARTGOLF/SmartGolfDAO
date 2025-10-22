@@ -7,7 +7,7 @@
 ---
 
 ## Structure
-- Each transaction requires **3 out of 5** signatures.
+- Each transaction requires minimum **3 out of 5** signatures.
 - Signers must be verified team or DAO members with KYC confirmed through CertiK or equivalent.
 - Transaction logs are automatically published via Safe transaction history.
 
@@ -26,3 +26,5 @@
 - Two-factor hardware wallet (Ledger/Trezor) for all signers
 - Role rotation every 6 months
 - Emergency recovery address (cold storage backup)
+  
+_Last updated: October 22, 2025_
