@@ -10,9 +10,11 @@ The purpose of this setup is to enhance transparency, reduce single-point contro
 - **Platform:** Gnosis Safe (Ethereum mainnet)
 - **Policy:** 3-of-5 multisig (3 signatures required for any transaction)
 - **Safes:**
-  - **SGi DAO Reserve Safe:** Manages ecosystem rewards and staking incentives  
-  - **Team Treasury Safe:** Handles internal compensation and development expenses  
-  - **Advisor & Ambassador Safe:** Used for time-locked allocations and partner rewards
+  - **SGi DAO Reserve Safe:** (30%) Keep foundation asset for future usage (4-of-5 multisig)
+  - **SGi Public sale Safe:** (25%) Temporal keeping for CEX public pool
+  - **SGi Ecosystem & rewards Safe:** (12%) Manages ecosystem rewards and staking incentives
+  - **Team Treasury Safe:** (4.5) Handles internal compensation and development expenses  
+  - **lIQUIDITY Safe:** (2%) Used for exchange pool liquidity 
 
 ---
 
@@ -34,3 +36,4 @@ SMARTGOLF Inc. is currently improving from a semi-centralized multisig managemen
 - Role-based smart contract signers
 
 All related addresses and updates are available in `safe_addresses.json`.
+_Last updated: October 22, 2025_
