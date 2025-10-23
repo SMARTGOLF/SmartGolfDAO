@@ -8,7 +8,7 @@ The purpose of this setup is to enhance transparency, reduce single-point contro
 
 ## 🧩 Current Setup
 - **Platform:** Gnosis Safe (Ethereum mainnet)
-- **Policy:** 3-of-5 multisig (3 signatures required for any transaction)
+- **Policy:** 3-of-5 multisig (minimum 3 signatures required for any transaction)
 - **Safes:**
   - **SGi DAO Reserve Safe:** (30%) Keep foundation asset for future usage (4-of-5 multisig)
   - **SGi Public sale Safe:** (25%) Temporal keeping for CEX public pool
