@@ -11,13 +11,13 @@ Statement:
 SMARTGOLF Inc. and the undersigned signers commit that no additional SGi tokens will be minted under this deployed contract unless there is an on-chain tokenholder vote that explicitly authorizes such action.
 
 Signers:
-- Owner EOA 0x8e64...c4d4  Signature: 0x[signature1]
-- Signer A 0x[addrA]      Signature: 0x[signature2]
-- Signer B 0x[addrB]      Signature: 0x[signature3]
-- Signer C 0x[addrC]      Signature: 0x[signature4]
-- Signer D 0x[addrD]      Signature: 0x[signature5]
+- Owner EOA  0x8f6018181d2750013e756c9363916e46C780FEd8   
+- Core Dev   0xCA1446d2777ee9D83522786C5B20dCa03AfC18dc    
+- Investor   0x2Bf12c11A04253daBdf4F82DC1A9CA13ae02E558
+- Ambassador 0x185E160c522E3F42A100975C332735908BecFF7c
+- Advisor    0x63584449C21a95d4f4Cb67F607d1e55D46DB81B8
 
 References:
 - Multisig policy and signer list: /multisig/multisig_policy.md
-- Locks and vesting table: [public sheet link]
-- DEX liquidity lock tx: 0x[tx_liq_lock]
+- Locks and vesting table: [public sheet link](https://docs.google.com/spreadsheets/d/1uSMdRQuvIDS9kCLoVO6fQ7UB8g-wStk09GN3b_INMvQ/edit?usp=sharing)
+
