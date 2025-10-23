@@ -1,0 +1,30 @@
+{
+  "domain": {
+    "name": "SGiMintingCovenant",
+    "version": "1",
+    "chainId": 1,
+    "verifyingContract": "0x0418fa3488d7e13f0c06ac5f8485d306b5748f4f"
+  },
+  "types": {
+    "Covenant": [
+      {"name": "token", "type": "address"},
+      {"name": "ownerEOA", "type": "address"},
+      {"name": "daoSafe", "type": "address"},
+      {"name": "statement", "type": "string"},
+      {"name": "timestamp", "type": "uint256"}
+    ]
+  },
+  "primaryType": "Covenant",
+  "message": {
+    "token": "0x0418fa3488d7e13f0c06ac5f8485d306b5748f4f",
+    "ownerEOA": "0x8e64...c4d4",
+    "daoSafe": "0x4f59f4Ed2caDEda1696a996002F0CEC301DF6E01",
+    "statement": "No additional SGi will be minted under this deployment unless approved by an on-chain tokenholder vote.",
+    "timestamp": 1697790000
+  },
+  "signatures": [
+    {"signer": "0x8e64...c4d4", "sig": "0x[signature1]"},
+    {"signer": "0x[addrA]",      "sig": "0x[signature2]"},
+    {"signer": "0x[addrB]",      "sig": "0x[signature3]"}
+  ]
+}
